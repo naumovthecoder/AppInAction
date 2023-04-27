@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppInAction.DI", "AppInAction.DI\AppInAction.DI.csproj", "{AEB1FCB1-45B2-4712-9ED8-517D6A4B5994}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppInAction.DI.MultipleImplementation", "AppInAction.DI.MultipleImplementation\AppInAction.DI.MultipleImplementation.csproj", "{54F053B5-45DE-4643-9E81-AB890EA59F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB1FCB1-45B2-4712-9ED8-517D6A4B5994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB1FCB1-45B2-4712-9ED8-517D6A4B5994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB1FCB1-45B2-4712-9ED8-517D6A4B5994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB1FCB1-45B2-4712-9ED8-517D6A4B5994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F053B5-45DE-4643-9E81-AB890EA59F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F053B5-45DE-4643-9E81-AB890EA59F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F053B5-45DE-4643-9E81-AB890EA59F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F053B5-45DE-4643-9E81-AB890EA59F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
