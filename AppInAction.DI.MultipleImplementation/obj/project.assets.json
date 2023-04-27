@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/naumov/Desktop/AppInAction/AppInAction.DI.MultipleImplementation/AppInAction.DI.MultipleImplementation.csproj",
+      "projectUniqueName": "/Users/naumov/Desktop/GitRepos/AppInAction/AppInAction.DI.MultipleImplementation/AppInAction.DI.MultipleImplementation.csproj",
       "projectName": "AppInAction.DI.MultipleImplementation",
-      "projectPath": "/Users/naumov/Desktop/AppInAction/AppInAction.DI.MultipleImplementation/AppInAction.DI.MultipleImplementation.csproj",
+      "projectPath": "/Users/naumov/Desktop/GitRepos/AppInAction/AppInAction.DI.MultipleImplementation/AppInAction.DI.MultipleImplementation.csproj",
       "packagesPath": "/Users/naumov/.nuget/packages/",
-      "outputPath": "/Users/naumov/Desktop/AppInAction/AppInAction.DI.MultipleImplementation/obj/",
+      "outputPath": "/Users/naumov/Desktop/GitRepos/AppInAction/AppInAction.DI.MultipleImplementation/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/naumov/.nuget/NuGet/NuGet.Config"

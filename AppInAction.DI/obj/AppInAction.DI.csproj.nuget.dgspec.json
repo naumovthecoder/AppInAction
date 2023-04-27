@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/naumov/Desktop/AppInAction/AppInAction.DI/AppInAction.DI.csproj": {}
+    "/Users/naumov/Desktop/GitRepos/AppInAction/AppInAction.DI/AppInAction.DI.csproj": {}
   },
   "projects": {
-    "/Users/naumov/Desktop/AppInAction/AppInAction.DI/AppInAction.DI.csproj": {
+    "/Users/naumov/Desktop/GitRepos/AppInAction/AppInAction.DI/AppInAction.DI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/naumov/Desktop/AppInAction/AppInAction.DI/AppInAction.DI.csproj",
+        "projectUniqueName": "/Users/naumov/Desktop/GitRepos/AppInAction/AppInAction.DI/AppInAction.DI.csproj",
         "projectName": "AppInAction.DI",
-        "projectPath": "/Users/naumov/Desktop/AppInAction/AppInAction.DI/AppInAction.DI.csproj",
+        "projectPath": "/Users/naumov/Desktop/GitRepos/AppInAction/AppInAction.DI/AppInAction.DI.csproj",
         "packagesPath": "/Users/naumov/.nuget/packages/",
-        "outputPath": "/Users/naumov/Desktop/AppInAction/AppInAction.DI/obj/",
+        "outputPath": "/Users/naumov/Desktop/GitRepos/AppInAction/AppInAction.DI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/naumov/.nuget/NuGet/NuGet.Config"

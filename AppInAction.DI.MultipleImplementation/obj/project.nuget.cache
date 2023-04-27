@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jjefm1X6HzJPDmen7P6o3xOLYrnwNmnhYl6SEjynNF3XerRx/XUmU4yN/KnBKKsU2MGMiPaC0eeh8V83NbaHKA==",
+  "dgSpecHash": "cniJzp0NyuuVFVZmYSqulgnQLUwQ62MVdlcP766L03A5ct4zlai3lqhPacCOphRRkbJoWmTWuHLHt/gms55Scw==",
   "success": true,
-  "projectFilePath": "/Users/naumov/Desktop/AppInAction/AppInAction.DI.MultipleImplementation/AppInAction.DI.MultipleImplementation.csproj",
+  "projectFilePath": "/Users/naumov/Desktop/GitRepos/AppInAction/AppInAction.DI.MultipleImplementation/AppInAction.DI.MultipleImplementation.csproj",
   "expectedPackageFiles": [
     "/Users/naumov/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/naumov/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
